@@ -67,3 +67,5 @@
 0.0.0.0 185.14.28.10
 0.0.0.0 rove.cl
 0.0.0.0 coinimp.com
+0.0.0.0 pool.monero.hashvault.pro
+0.0.0.0 pool.minexmr.com
